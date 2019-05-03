@@ -3,7 +3,7 @@
 
 The test dataset for the model can be downloaded from the link: https://1drv.ms/f/s!Ai_nIBFtgsTMgTrizTMZYov-7VD2
 
-The checkpoint file can be downloaded from the link: https://1drv.ms/f/s!Ai_nIBFtgsTMa3haiYUcgMtCkzI
+The checkpoint file for the pretrained CNN and DCGAN can be downloaded from the link: https://1drv.ms/f/s!Ai_nIBFtgsTMa3haiYUcgMtCkzI
 
 The test datasets are suitable to used for:
 (i)  Convolutional Neural Network for Compliance Prediction
